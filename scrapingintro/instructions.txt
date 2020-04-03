@@ -1,0 +1,2 @@
+npm init -- yes  - to get npm packages from node
+npm install request request-promise cheerio    (request and request-promise downloads the site) and cheerio we use to be able to use jquery selectors inside of nodeJS
